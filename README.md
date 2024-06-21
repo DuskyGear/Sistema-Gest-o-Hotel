@@ -20,8 +20,11 @@ Um sistema de gestão de hotel desenvolvido em Python que permite o cadastro de 
 - hotel.py: Classe principal que gerencia todas as operações do hotel.
 
 ```python
-from hotel import Hotel
 
-meu_hotel = Hotel()
-meu_hotel.cadastroCliente()
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+
+#No terminal, execute o arquivo appresort.py utilizando Python:
+python appresort.py
+
 
