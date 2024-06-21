@@ -19,6 +19,9 @@ Um sistema de gestão de hotel desenvolvido em Python que permite o cadastro de 
 - endereco.py: Classe para representação de endereços dos clientes.
 - hotel.py: Classe principal que gerencia todas as operações do hotel.
 
-''' git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+```python
+from hotel import Hotel
+
+meu_hotel = Hotel()
+meu_hotel.cadastroCliente()
 
